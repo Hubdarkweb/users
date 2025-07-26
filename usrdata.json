@@ -12,5 +12,12 @@
         "password": "TOpNeT",
         "expirydate": "15-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "deebdb327c3ee723",
+        "username": "TOpNeT",
+        "password": "TOpNeT",
+        "expirydate": "15-08-2025",
+        "Allowoffline": true
     }
 ]
