@@ -26,5 +26,19 @@
         "password": "TOpNeT",
         "expirydate": "15-08-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "37f7313ddbd18c84",
+        "username": "TOpNeT",
+        "password": "TOpNeT",
+        "expirydate": "15-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5054c236fad2c27c",
+        "username": "TOpNeT",
+        "password": "TOpNeT",
+        "expirydate": "15-08-2025",
+        "Allowoffline": false
     }
 ]
