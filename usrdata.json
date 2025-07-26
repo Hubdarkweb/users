@@ -39,6 +39,6 @@
         "username": "TOpNeTx",
         "password": "TOpNeTz",
         "expirydate": "15-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
